@@ -6,6 +6,7 @@ TODO - TECH STACK :
 - Dockerfile (Production) -> deploy in DockerHub
 - Kubernetes (Create manifest files)
 - Nuxt v3
+- Tauri v1.5.2 (core), api v1.5.1, cli v1.5.5
 - AdonisJS v5
 - Ionic v7
 - Capacitor v6
