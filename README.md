@@ -13,7 +13,20 @@ TODO - TECH STACK :
 - Vitepress >= v1.0.0-rc.32
 - Husky, prettier, eslint
 - TailwindCSS >= 3.3.6
+- Bucket S3 (via Minio)
+- Mailhog
+- PhpMyAdmin
+- MariaDB
+- MinioMC
 
+<br /><br /><br />
+
+Docker Compose inclus :
+- Minio
+- MinioMC
+- MariaDB
+- Mailhog (email)
+- PhpMyAdmin
 
 <br /><br /><br />
 
