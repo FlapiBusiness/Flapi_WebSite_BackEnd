@@ -6,7 +6,8 @@ TODO - TECH STACK :
 - Dockerfile (Production) -> deploy in DockerHub
 - Kubernetes (Create manifest files)
 - AdonisJS v5
-- Vitest v1
+- Vitest v1 (tess unit)
+- Japa (test functional)
 - Husky, prettier, eslint
 - Bucket S3 (via Minio)
 - Mailhog
