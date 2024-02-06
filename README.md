@@ -5,7 +5,7 @@ TODO - TECH STACK :
 - Docker Compose v3.8 (Mode development)
 - Dockerfile (Production) -> deploy in DockerHub
 - Kubernetes (Create manifest files)
-- AdonisJS v5
+- AdonisJS v6
 - Vitest v1 (tess unit)
 - Japa (test functional)
 - Husky, prettier, eslint
